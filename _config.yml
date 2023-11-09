@@ -1,13 +1,15 @@
-title: Cicero Brunelli # your name (or website title) here
+title: Cicero Gasparini Brunelli # your name (or website title) here
 logo: "https://avatars.githubusercontent.com/u/63745509?v=4" # your photo (or logo) here
-description: > # your text below (remove <br> elements if you don't need line breaks)
+description:
+  > # your text below (remove <br> elements if you don't need line breaks)
   First description 
   <br><br>
   Second description 
   <br><br>
-  <a href="https://www.linkedin.com/in/brunellicg/">View My LinkedIn Profile</a> 
-  
+  <a href="https://github.com/cicerogb><img style="vertical-align:middle" src="https://cdn.iconscout.com/icon/free/png-256/github-113-438180.png" height="22" width="22" class="center"> Github</a>
+  <a href="https://www.linkedin.com/in/brunellicg/"><img style="vertical-align:middle" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" height="20" width="20" class="center"> LinkedIn</a>
+
+
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
-- jekyll-remote-theme
-
+  - jekyll-remote-theme
